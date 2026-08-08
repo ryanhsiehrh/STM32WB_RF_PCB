@@ -18,9 +18,9 @@ Custom 4-layer developement board centered around the STM32WB55CEU6 MCU. The boa
 
 **Schematic:**
 
-<img src="Images/STM32WB_SCHEMATIC.png" width="750">
+<img src="Images/STM32WB_SCHEMATIC_2.png" width="750">
 
 **PCB:**
 
-<img src="Images/STM32WB_PCB.png" width="650">
-<img src="Images/STM32WB_3DVIEW.png" width="650">
+<img src="Images/STM32WB_PCB_2.png" width="650">
+<img src="Images/STM32WB_3DVIEW_2.png" width="650">
